@@ -25,8 +25,8 @@ author:
   name             : "Qiu yiyu"
   pronouns         : # example: "she/her"  
   bio              : "The road is still long, take my time"
-  location         : "Beijing University of Posts and Telecommunications Shahe Campus, Shahe Higher Education Park, Changping District, Beijing"
-  employer         : "Red Brick University"
+  location         : "Beijing"
+  employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://qiuqc1.github.io/qiuqc.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
